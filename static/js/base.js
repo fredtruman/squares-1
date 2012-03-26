@@ -2,6 +2,7 @@
 //also what happens if the happiness score is less than one? then you are dividiing by a fraction, so
 //just add an if(happinessscore > 1) this else speed = 2 (something)
 //zach will keep log(value) - but remove the divide by 10 - already done and pulled from git
+// just a test
 (function($) {
     var 
         home = 'http://127.0.0.1:8000/',
